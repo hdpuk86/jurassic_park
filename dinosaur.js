@@ -1,6 +1,6 @@
 var Dinosaur = function(type, numOffspring){
   this.type = type;
-  this. numberOfOffspring = numOffspring;
+  this.offspringCount = numOffspring;
 };
 
 module.exports = Dinosaur;
